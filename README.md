@@ -3,7 +3,10 @@
 This is a WhatsApp Clone App created using React Js, Node js and deployed with Firebase. 
 The interested functionality in this app is you can login your google account. It is powered by Google authentication. 
 
-You can check the preview at https://super-chat-48a7b.web.app/
+#### You can check the preview at https://super-chat-48a7b.web.app/
+
+### Preview Image
+<img src="https://github.com/Ankit628792/WhatsApp-Clone/blob/master/superchat.png?raw=true" />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
