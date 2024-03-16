@@ -22,9 +22,9 @@ const signIn = () => {
     return (
         <div className="Login">
             <div className="login__container">
-                <img src="http://pngimg.com/uploads/whatsapp/whatsapp_PNG13.png" alt="" />
+                <img src="/logo.png" alt="" />
                 <div className="login__text">
-                    <h1>Sign in to WhatsApp</h1>
+                    <h1>Sign in to Super Chat</h1>
                 </div>
                 <Button onClick={signIn}>
                     Sign In With Google
